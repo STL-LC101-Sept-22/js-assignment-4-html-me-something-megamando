@@ -1,1 +1,8 @@
-/* Write your CSS here! */
+.indentstart{
+  text-indent:7%
+}
+
+h1,h2{
+  text-align: center;
+  
+}
